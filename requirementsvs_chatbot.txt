@@ -1,0 +1,11 @@
+python>=3.9
+numpy>=1.24
+pandas>=1.5
+streamlit>=1.10
+plotly>=5.0
+scikit-learn>=1.2
+requests
+streamlit-lottie
+qiskit
+qiskit-aer   # for AerSimulator if you want local simulation
+
